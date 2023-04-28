@@ -4,7 +4,7 @@
  * Plugin URI: https://82marketing.com
  * Description: This plugin implements S2S tracking for CJ Affiliate in WooCommerce.
  * Version: 1.0
- * Author: Your Name
+ * Author: Andrei
  * Author URI: https://82marketing.com
  * License: GPL-3.0
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
